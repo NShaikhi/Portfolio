@@ -1,0 +1,30 @@
+section{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 800px;
+    margin-left: 50px;
+    color: black;
+    
+}
+
+  /* Large rounded green border */
+hr {
+    border: 2px solid green;
+    border-radius: 5px;
+}
+
+.vl {
+    border-left: 2px solid green;
+    height: 20px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+  }
+.logo {
+    position: relative;
+    font-size: 25px;
+    color: #294ddb;
+    text-decoration: none;
+    font-weight: 600;
+}
